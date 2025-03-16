@@ -5,9 +5,9 @@
 
 ### Refs1
 
-https://discourse.threejs.org/t/three-js-solar-system/63187
-https://threesolar.netlify.app/
-https://github.com/theshanergy/solarsystem
+[信息来源](https://discourse.threejs.org/t/three-js-solar-system/63187)
+[实现效果](https://threesolar.netlify.app/)
+[源码地址](https://github.com/theshanergy/solarsystem)
 
 ### Refs2
 
@@ -29,6 +29,10 @@ https://github.com/sidd-harth/solar-system
 https://discourse.threejs.org/t/basic-solar-system-example/42514
 https://discourse.threejs.org/t/interactive-solar-system-with-a-musical-twist/24359
 https://discourse.threejs.org/t/realistic-browser-based-solar-system-simulation-built-using-three-js/26541
+
+### 星空纹理下载
+
+<https://www.solarsystemscope.com/textures/>
 
 ## React + TypeScript + Vite
 
@@ -84,3 +88,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## Three.js基础知识
+
+在 Three.js 中，默认坐标系是右手坐标系，x 轴向右，y 轴向上，z 轴向前（朝向观察者）
